@@ -1,0 +1,16 @@
+{
+  "name": "gantt_weeks",
+  "version": "1.0.0",
+  "description": "Gantt chart driven by node+D3 from a csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kindzerske@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "d3": "^7.9.0",
+    "express": "^4.21.1"
+  }
+}
