@@ -4,6 +4,7 @@
   "description": "Gantt chart driven by node+D3 from a csv",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kindzerske@gmail.com",
