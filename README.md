@@ -2,7 +2,7 @@
 
 Crude node+express to make gantt charts (weekly) with [d3](https://d3js.org/).
 
-Input is `data.csv`, see the committed example for columns and format.
+Input is `data.csv`, see the [committed example](data.csv) for columns and format.
 
 `npm install && npm start` and then access [localhost:3000](http://localhost:3000)
 
